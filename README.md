@@ -11,15 +11,15 @@
 - ```Microsoft SQL Server```
 
 ## ❓ Analysis Scenarios
-- [Get the Top 5 Cities with the highest spends and also their contribution percentage in the overall spends.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the month which registered the highest spending and the spending distribution across each card type.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the transaction details of each card type when it reached a cummulative total of 1000000 spend.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the city that had the lowest percentage spend for Gold Card type.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get every cities Highest and Lowest Expense Type.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the Females contribution for each Expense Type.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the Card and Expense Type Combination that registered the highest Month on Month Growth in JAN-2014.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the city that had the highest total spend to total no of transactions ratio.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
-- [Get the city that took least number of days to reach 500th transaction.](https://github.com/AnalystDaipayan/Credit_Card_Spend_Analysis/blob/main/SQLSolution/SQLAnalysis.md)
+- [Get the Top 5 Cities with the highest spends and also their contribution percentage in the overall spends.]
+- [Get the month which registered the highest spending and the spending distribution across each card type.]
+- [Get the transaction details of each card type when it reached a cummulative total of 1000000 spend.]
+- [Get the city that had the lowest percentage spend for Gold Card type.]
+- [Get every cities Highest and Lowest Expense Type.]
+- [Get the Females contribution for each Expense Type.]
+- [Get the Card and Expense Type Combination that registered the highest Month on Month Growth in JAN-2014.]
+- [Get the city that had the highest total spend to total no of transactions ratio.]
+- [Get the city that took least number of days to reach 500th transaction.]
 
 ## 🎡 Concepts Covered
 - Usage of ```Grouping and Aggregation Functions```.
